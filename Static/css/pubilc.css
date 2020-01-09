@@ -1,0 +1,106 @@
+.text-00b9e0 {
+  color : #00B9E0;
+}
+
+.text-768395 {
+  color : #768395;
+}
+
+.text-bfc8d4 {
+  color : #BFC8D4;
+}
+
+.text-9ca9bb {
+  color : #9CA9BB;
+}
+
+.size12 {
+  font-size : 12px;
+}
+
+.size14 {
+  font-size : 14px;
+}
+
+.size16 {
+  font-size : 16px;
+}
+
+.size18 {
+  font-size : 18px;
+}
+
+.size20 {
+  font-size : 20px;
+}
+
+.size22 {
+  font-size : 22px;
+}
+
+.size24 {
+  font-size : 24px;
+}
+
+.cursor {
+  cursor : pointer;
+}
+
+.ellipsis {
+  display            : -webkit-box;
+  overflow           : hidden;
+  text-overflow      : ellipsis;
+  word-wrap          : break-word;
+  word-break         : break-all;
+  white-space        : normal !important;
+  -webkit-line-clamp : 1;
+  -webkit-box-orient : vertical;
+}
+
+.ellipsis-2 {
+  display            : -webkit-box;
+  overflow           : hidden;
+  text-overflow      : ellipsis;
+  word-wrap          : break-word;
+  word-break         : break-all;
+  white-space        : normal !important;
+  -webkit-line-clamp : 2;
+  -webkit-box-orient : vertical;
+}
+
+.text-left {
+  text-align : left !important;
+}
+
+.text-center {
+  text-align : center !important;
+}
+
+.text-justify {
+  text-align : justify !important;
+}
+
+.text-right {
+  text-align : right !important;
+}
+
+.hide {
+  display : none !important;
+}
+
+.show {
+  display : block !important;
+}
+
+.hr {
+  width      : 100%;
+  height     : 1px;
+  background : #E3E8EF;
+}
+
+.icontriangle {
+  background      : url("/static/images/btn-triangle-right-blue-1.svg") no-repeat center;
+  background-size : 100% 100%;
+  width           : 20px;
+  height          : 8px;
+}

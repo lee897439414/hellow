@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 53.2 (72643) - https://sketchapp.com -->
+    <title>A4764348-AF18-43AA-AB08-94A24B666676</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00EFFE" offset="0%"></stop>
+            <stop stop-color="#12A4C3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="壹智能网页版" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="壹智能网页版-制图模式-2点位图-5发送预览(发送)" transform="translate(-557.000000, -369.000000)">
+            <g id="send" transform="translate(392.000000, 248.000000)">
+                <g id="btn_checkbox/1ovalBlue_selected2" transform="translate(165.000000, 121.000000)">
+                    <circle id="btn_checkbox/ovalBlue_selected2" stroke="#00B9E0" fill="url(#linearGradient-1)" fill-rule="evenodd" cx="8" cy="8" r="5.14705882"></circle>
+                    <circle id="btn_checkbox/1ovalBlue" stroke="#BFC8D4" cx="8" cy="8" r="7.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
